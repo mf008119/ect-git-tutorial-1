@@ -1,5 +1,9 @@
 ITS3100: understanding git
 
+:
+
+
+C
 
 
 A
@@ -196,8 +200,8 @@ B
 B
 B
 B
-B
-B
+	B
+	B
 B
 B
 B
